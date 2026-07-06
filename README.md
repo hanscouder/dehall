@@ -4,10 +4,11 @@ DEHALL is a starting point for a "dehallucination reasoning layer" that supports
 
 ## Purpose
 
-- Develop an additional layer that checks and substantiates answer generation
-- Align facts with sources
-- Produce answers with source references
-- Self-check for consistency and correctness
+- Build a dehall layer focused on Python code analysis, especially for datamining and statistical pattern discovery in large-scale datasets
+- Develop an additional layer that checks and substantiates generated code-related reasoning
+- Align findings with sources and evidence from data
+- Produce grounded answers with references to code, data, or statistical insights
+- Self-check for consistency and correctness in the generated reasoning
 
 ## Structure
 
